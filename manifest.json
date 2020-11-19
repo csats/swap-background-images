@@ -11,8 +11,5 @@
     "all_frames": true,
     "js": ["js/content.js"]
   }],
-  "background": {
-    "scripts": ["js/background.js"]
-  },
   "browser_action": {}
 }
