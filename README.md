@@ -29,7 +29,7 @@
 
 # Google Chrome - Chrome Extention
 
-# Steps to run locally
+## Steps to run locally
 1. Open Google Chrome
 2. Go to https://github.com/csats/swap-background-images/archive/main.zip => save the zip file. It should download as `swap-background-images-main.zip`.
 3. Unzip/extract the zip file.
@@ -40,3 +40,8 @@
 7. Find `CSATS: background-image-swapper` and click the 'pin' icon to pin it.
 8. Navigate to the desired website - localhost (if running locally), stage, prod, or protoype. If the page is open already, refresh it.
 10. Wait 10s and images will be swapped.
+
+# Screenshots
+![alt text](https://github.com/csats/swap-background-images/blob/main/screenshots/Chrome-CSATS-background-image-swapper-1.png)
+
+![alt text](https://github.com/csats/swap-background-images/blob/main/screenshots/Firefox-CSATS-background-image-swapper-1.png)
