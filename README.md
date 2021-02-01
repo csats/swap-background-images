@@ -1,4 +1,10 @@
 # CSATS: swap-background-images
+## Overview
+* Surgery images (thumbnails) in csats.com can sometimes not pleasant to look at.
+* This extension solves helps solve that issue by replacing all the thumbnail images in videos with copyright-free images of pandas or turtles.
+* If you are staring at the these images all day, or doing demos where you'd like to hide the thumbnail image, enabling this extension _(for chrome)_ or running this greasemonkey script _(for firefox)_ will help with aesthetics.
+
+## Notes:
 * Supported browsers are Mozilla Firefox and Google Chrome
 * Both the browsers have different steps to make this work.
 * Both of these have the following features:
@@ -23,11 +29,9 @@
 
 # Google Chrome - Chrome Extention
 
-# IMPORTANT: The extension is currently pending review. I will update the docs once it's published. Meanwhile, the steps below will help you run it locally.
-
 # Steps to run locally
 1. Open Google Chrome
-2. Go to https://github.com/csats/swap-background-images => Click `Code` button => click `Download Zip`. It should download as `swap-background-images-main.zip`.
+2. Go to https://github.com/csats/swap-background-images/archive/main.zip => save the zip file. It should download as `swap-background-images-main.zip`.
 3. Unzip/extract the zip file.
 3. Open a new tab in Chrome and navigate to `chrome://extensions/`
 4. Toggle `Developer Mode` **ON**. It's on the top right corner of the webpage.
